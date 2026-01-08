@@ -32,5 +32,5 @@ A C# console application that analyzes test marks and generates academic perform
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/mfanelodanniemathye/student-grade-analyzer.git
+git clone https://github.com/MfaneloDannieMathye/student-grade-analyzer.git
 cd student-grade-analyzer
